@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-10T21:39:36 IST" name="Default suite" finished-at="2024-07-10T21:39:45 IST" duration-ms="8652">
+    <groups>
+    </groups>
+    <test started-at="2024-07-10T21:39:36 IST" name="Default test" finished-at="2024-07-10T21:39:45 IST" duration-ms="8652">
+      <class name="com.tests.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tests.HomePageTest@3349e9bb]" started-at="2024-07-10T21:39:36 IST" name="setup" finished-at="2024-07-10T21:39:44 IST" duration-ms="7799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testPageTitle()[pri:0, instance:com.tests.HomePageTest@3349e9bb]" started-at="2024-07-10T21:39:44 IST" name="testPageTitle" finished-at="2024-07-10T21:39:44 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageTitle -->
+        <test-method signature="testPageUrl()[pri:0, instance:com.tests.HomePageTest@3349e9bb]" started-at="2024-07-10T21:39:44 IST" name="testPageUrl" finished-at="2024-07-10T21:39:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPageUrl -->
+        <test-method signature="testSearch()[pri:0, instance:com.tests.HomePageTest@3349e9bb]" started-at="2024-07-10T21:39:44 IST" name="testSearch" finished-at="2024-07-10T21:39:45 IST" duration-ms="537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearch -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tests.HomePageTest@3349e9bb]" started-at="2024-07-10T21:39:45 IST" name="tearDown" finished-at="2024-07-10T21:39:45 IST" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
